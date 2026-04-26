@@ -1,15 +1,66 @@
 # Supply-Chain-Dashboard
-A supply chain management dashboard is a visual representation of relevant information related to the performance of a supply chain. The dashboard provides an at-a-glance view of the supply chain's health, allowing managers to quickly identify any areas of concern and make data-driven decisions. 
 
-The dashboard typically includes various graphs, charts, and tables that display metrics such as inventory levels, lead times, delivery performance, and supplier performance. The data is often presented in real time, allowing managers to monitor the supply chain's performance as it happens.
+## Project Overview
 
-The dashboard may also include alerts, notifications, and other features that draw attention to potential issues or opportunities. For example, if inventory levels drop below a certain threshold, the dashboard may automatically send an alert to the appropriate manager, allowing them to act before stockouts occur.
+This project presents an interactive Supply Chain Management Dashboard built using Tableau to monitor and analyze key supply chain metrics.
+The dashboard provides a real-time, at-a-glance view of supply chain performance, enabling stakeholders to quickly identify inefficiencies, track KPIs, and make data-driven decisions.
 
-Overall, the dashboard of a supply chain management visualization serves as a powerful tool for monitoring and optimizing supply chain performance, enabling managers to make more informed decisions and drive improvements in efficiency, cost-effectiveness, and customer satisfaction.
+## Project Links
+📊 Dashboard:
+Tableau Public – https://public.tableau.com/app/profile/prajwal.nagendra.srivatsa/viz/SupplyChainDashboardTeam16/Dashboard1#2
+📁 Dataset:
+Kaggle – https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
+## Objective
 
-Link to the dashboard:
-https://public.tableau.com/app/profile/prajwal.nagendra.srivatsa/viz/SupplyChainDashboardTeam16/Dashboard1#2
+To design a dashboard that helps businesses:
 
-Link to the DataSet:
-https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis?resource=download
+Monitor supply chain performance in real time
+Identify bottlenecks and inefficiencies
+Improve operational decision-making
+Enhance customer satisfaction
+
+## Dashboard Features
+# Inventory Insights
+ - Tracks inventory levels across products
+ - Identifies low-stock and overstock situations
+# Delivery Performance
+ - Monitors delivery timelines and delays
+ - Evaluates on-time vs delayed shipments
+# Lead Time Analysis
+ - Measures time taken from order to delivery
+ - Helps identify process inefficiencies
+# Supplier Performance
+ - Evaluates supplier reliability
+ - Tracks delays and fulfillment rates
+# Alerts & Monitoring
+ - Highlights critical thresholds (e.g., low inventory)
+ - Enables proactive decision-making
+
+## Tools & Technologies
+ - Data Visualization: Tableau
+ - Dataset Source: Kaggle
+ - Data Processing: Excel / CSV
+   
+## Workflow
+ - Data Collection from Kaggle
+ - Data Cleaning & Preprocessing
+ - Data Modeling in Tableau
+ - Dashboard Design & Visualization
+ - Insights Extraction
+## Key Insights
+ - Delivery delays can be linked to specific suppliers and regions
+ - Inventory imbalances highlight inefficiencies in demand forecasting
+ - Lead time variations indicate process bottlenecks
+ - Certain product categories show consistent performance issues
+## Business Impact
+This dashboard enables:
+  - Faster operational decisions
+  - Improved inventory management
+  - Better supplier evaluation
+  - Reduced delivery delays
+  - Increased customer satisfaction
+
+## Conclusion
+The Supply Chain Dashboard provides a comprehensive view of supply chain operations, helping organizations optimize performance, reduce costs, and improve service levels through data-driven insights.
+
